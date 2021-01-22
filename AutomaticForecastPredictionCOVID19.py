@@ -26,7 +26,7 @@ st.title('COVID-19 Time Series Forecasting')
 
 """
 
-df = st.file_uploader('Subir el archivo csv', type='csv', encoding='windows-1252')
+df = st.file_uploader('Subir el archivo csv', type='csv', encoding='auto')
 
 
 
