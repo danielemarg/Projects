@@ -1,5 +1,4 @@
-fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
+fbprophet==0.7.1
 numpy==1.18.5
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
-pandas @ file:///C:/ci/pandas_1592833613419/work
+pandas=1.2.0
 streamlit==0.75.0
